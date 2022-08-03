@@ -18,7 +18,7 @@ During my free time I like to watch either movies, shows, or anime. I also enjoy
 ### Contact
 
 <a  href="https://www.linkedin.com/in/jae-shin-5b3802128/" target="_blank" ><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="width:60px;" /></a>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" style="width:60px;" /> - 7jaeshin@gmail.com
+<a href="7jaeshin@gmail.com" target="_blank" ><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" style="width:60px;" /></a>
 
 ![Jae's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shin-Jae&show_icons=true&theme=tokyonight)
 
