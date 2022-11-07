@@ -2,7 +2,7 @@
 
 Hello, my name is Jae and I'm a fullstack software engineer with experience in JavaScript, React/Redux, Python, Flask and more. I attended App Academy where the 1000+ hour six-month intensive course helped me develop many new skills as well as strengthen my existing skills. 
 
-During my free time I like to watch either movies, shows, or anime. I also enjoy playing golf and basketball even though I'm not very good at either I enjoy the process.
+During my free time I like to watch either movies, shows, or anime. I also enjoy playing golf and basketball, even though I'm not very good at either, I enjoy the process.
 
 ## Languages and Technologies
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" title="javascript" width="60" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" style="width:60px;" />
