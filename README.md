@@ -17,8 +17,8 @@ During my free time I like to watch either movies, shows, or anime. I also enjoy
 * Repo: https://github.com/Shin-Jae/tweeter-app
 * Live: https://app-tweeter.herokuapp.com/
 ####  Slick
-* Repo: https://github.com/walkeradkins/slick-app
-* Live: https://app-slick.herokuapp.com/
+* Repo: https://github.com/Shin-Jae/slick-app
+* Live: https://slick.herokuapp.com/
 ####  Yelp Squad
 * Repo: https://github.com/Shin-Jae/yelp-squad
 * Live: https://yelp-squad.herokuapp.com/
